@@ -1,2 +1,2 @@
 # GoIT
-GoIT Frontend repository
+GoIT Frontend homeworks repository by Leonid Chernyshov
